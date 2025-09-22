@@ -6,8 +6,8 @@
 // module -> information about current module (file)
 // process -> information about env where the program is being executed
 
-console.log(__dirname) //C:\Users\KIIT0001\OneDrive\Desktop\Git\node-express-learning
-console.log(__filename)//C:\Users\KIIT0001\OneDrive\Desktop\Git\node-express-learning\1-introduction.js
+console.log(__dirname) 
+console.log(__filename)
 
 setInterval( () => {
     console.log("Hello!!!")
