@@ -1,0 +1,1 @@
+This is a basic test paragraph. It contains a few sentences to check how text appears, wraps, and formats in your environment. You can use it for layout testing, font rendering, or any situation where you need a short block of sample content.
